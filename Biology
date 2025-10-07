@@ -1,0 +1,76 @@
+<html>
+    <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Biology Quiz</title>
+        <link rel="stylesheet" href="css.css" />
+    </head>
+    <body>
+        <h1>Biology Quiz</h1>
+        <p>Please enter your name</p>
+        <input type="username">
+        <p>1:Double helical structure of DNA a given by </p>
+        <p>a)25<input type="radio" name="1" id="numbers" checked/></p>
+        <p><input type="radio" name="1" id="numbers" checked/></p>
+        <p><input type="radio" name="1" id="numbers" checked/></p>
+        <p><input type="radio" name="1" id="numbers" checked/></p>
+        <p>2.The term "chromosomes" literally means</p>
+        <p><input type="radio" name="1" id="numbers" checked/></p>
+        <p><input type="radio" name="1" id="numbers" checked/></p>
+        <p><input type="radio" name="1" id="numbers" checked/></p>
+        <p><input type="radio" name="1" id="numbers" checked/></p>
+        <p>3.A typical phenotypic monohybrid ratio of F2 in Mendel's experiment is</p>
+        <p><input type="radio" name="1" id="numbers" checked/></p>
+        <p><input type="radio" name="1" id="numbers" checked/></p>
+        <p><input type="radio" name="1" id="numbers" checked/></p>
+        <p><input type="radio" name="1" id="numbers" checked/></p>
+        <p>4.The swelling of raisins is due to </p>
+        <p><input type="radio" name="1" id="numbers" checked/></p>
+        <p><input type="radio" name="1" id="numbers" checked/></p>
+        <p><input type="radio" name="1" id="numbers" checked/></p>
+        <p><input type="radio" name="1" id="numbers" checked/></p>
+        <p>5.Which of the following will not directly affect transpiration</p> 
+        <p><input type="radio" name="1" id="numbers" checked/></p>
+        <p><input type="radio" name="1" id="numbers" checked/></p>
+        <p><input type="radio" name="1" id="numbers" checked/></p>
+        <p><input type="radio" name="1" id="numbers" checked/></p> 
+        <p>6.A drastic reduction in the quantity of white blood cells is rightly termed as</p>
+        <p><input type="radio" name="1" id="numbers" checked/></p>
+        <p><input type="radio" name="1" id="numbers" checked/></p>
+        <p><input type="radio" name="1" id="numbers" checked/></p>
+        <p><input type="radio" name="1" id="numbers" checked/></p>
+        <p>7. In girls , which mark first indicates the occurrence of puberty ? </p>
+        <p><input type="radio" name="1" id="numbers" checked/></p>
+        <p><input type="radio" name="1" id="numbers" checked/></p>
+        <p><input type="radio" name="1" id="numbers" checked/></p>
+        <p><input type="radio" name="1" id="numbers" checked/></p>
+        <p>8. Which one of the following acts as the perfect place for the most suitable vision of the normal eye ?</p>
+        <p><input type="radio" name="1" id="numbers" checked/></p>
+        <p><input type="radio" name="1" id="numbers" checked/></p>
+        <p><input type="radio" name="1" id="numbers" checked/></p>
+        <p><input type="radio" name="1" id="numbers" checked/></p>
+        <p>9.Dilation of the pupil helps in allowing maximum light to reach the</p>
+        <p><input type="radio" name="1" id="numbers" checked/></p>
+        <p><input type="radio" name="1" id="numbers" checked/></p>
+        <p><input type="radio" name="1" id="numbers" checked/></p>
+        <p><input type="radio" name="1" id="numbers" checked/></p>
+        <p>10.What is the ideal weight of an individual brain ?</p>
+        <p><input type="radio" name="1" id="numbers" checked/></p>
+        <p><input type="radio" name="1" id="numbers" checked/></p>
+        <p><input type="radio" name="1" id="numbers" checked/></p>
+        <p><input type="radio" name="1" id="numbers" checked/></p>
+        <p>11. The procedure which contributes in the production of sperms in seminiferous tubules is known as</p>
+        <p><input type="radio" name="1" id="numbers" checked/></p>
+        <p><input type="radio" name="1" id="numbers" checked/></p>
+        <p><input type="radio" name="1" id="numbers" checked/></p>
+        <p><input type="radio" name="1" id="numbers" checked/></p>
+        <p>12.What is the full form of IAA ?</p>
+        <p><input type="radio" name="1" id="numbers" checked/></p>
+        <p><input type="radio" name="1" id="numbers" checked/></p>
+        <p><input type="radio" name="1" id="numbers" checked/></p>
+        <p><input type="radio" name="1" id="numbers" checked/></p>
+        <div class="text-center">
+            <button type="submit">Submit</button>
+        </div>
+
+    </body>
+</html>
