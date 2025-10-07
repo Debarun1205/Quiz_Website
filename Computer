@@ -1,0 +1,76 @@
+<html>
+    <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Computer Quiz</title>
+        <link rel="stylesheet" href="css.css" />
+    </head>
+    <body>
+        <h1>Computer Quiz</h1>
+        <p>Please enter your name</p>
+        <input type="username">
+        <p>1:Given: int p=55/0;Name the type of error in the given statement:</p>
+        <p>a)25<input type="radio" name="1" id="numbers" checked/></p>
+        <p><input type="radio" name="1" id="numbers" checked/></p>
+        <p><input type="radio" name="1" id="numbers" checked/></p>
+        <p><input type="radio" name="1" id="numbers" checked/></p>
+        <p>2.Given: d= Math.min(-15.5, -19.5); What data type will you refer for the variable d?</p>
+        <p><input type="radio" name="1" id="numbers" checked/></p>
+        <p><input type="radio" name="1" id="numbers" checked/></p>
+        <p><input type="radio" name="1" id="numbers" checked/></p>
+        <p><input type="radio" name="1" id="numbers" checked/></p>
+        <p>3.If m, n, p are the three integer, then which of the following hold true, if(m==n)&&(n!=p)?</p>
+        <p><input type="radio" name="1" id="numbers" checked/></p>
+        <p><input type="radio" name="1" id="numbers" checked/></p>
+        <p><input type="radio" name="1" id="numbers" checked/></p>
+        <p><input type="radio" name="1" id="numbers" checked/></p>
+        <p>4.Java is an</p>
+        <p><input type="radio" name="1" id="numbers" checked/></p>
+        <p><input type="radio" name="1" id="numbers" checked/></p>
+        <p><input type="radio" name="1" id="numbers" checked/></p>
+        <p><input type="radio" name="1" id="numbers" checked/></p>
+        <p>5.Which term of the following statements will terminate the premature execution of a program?</p> 
+        <p><input type="radio" name="1" id="numbers" checked/></p>
+        <p><input type="radio" name="1" id="numbers" checked/></p>
+        <p><input type="radio" name="1" id="numbers" checked/></p>
+        <p><input type="radio" name="1" id="numbers" checked/></p> 
+        <p>6.Choose the odd one out from the following</p>
+        <p><input type="radio" name="1" id="numbers" checked/></p>
+        <p><input type="radio" name="1" id="numbers" checked/></p>
+        <p><input type="radio" name="1" id="numbers" checked/></p>
+        <p><input type="radio" name="1" id="numbers" checked/></p>
+        <p>7.A loop within another loop is called  a: </p>
+        <p><input type="radio" name="1" id="numbers" checked/></p>
+        <p><input type="radio" name="1" id="numbers" checked/></p>
+        <p><input type="radio" name="1" id="numbers" checked/></p>
+        <p><input type="radio" name="1" id="numbers" checked/></p>
+        <p>8.Each primitive data type belongs to a specific:</p>
+        <p><input type="radio" name="1" id="numbers" checked/></p>
+        <p><input type="radio" name="1" id="numbers" checked/></p>
+        <p><input type="radio" name="1" id="numbers" checked/></p>
+        <p><input type="radio" name="1" id="numbers" checked/></p>
+        <p>9.A Single Dimensional Array contains N elements. What will be the lat subscript?</p>
+        <p><input type="radio" name="1" id="numbers" checked/></p>
+        <p><input type="radio" name="1" id="numbers" checked/></p>
+        <p><input type="radio" name="1" id="numbers" checked/></p>
+        <p><input type="radio" name="1" id="numbers" checked/></p>
+        <p>10.A contructor is always:</p>
+        <p><input type="radio" name="1" id="numbers" checked/></p>
+        <p><input type="radio" name="1" id="numbers" checked/></p>
+        <p><input type="radio" name="1" id="numbers" checked/></p>
+        <p><input type="radio" name="1" id="numbers" checked/></p>
+        <p>11.Which tyoe of data is not accessed in a derived class?</p>
+        <p><input type="radio" name="1" id="numbers" checked/></p>
+        <p><input type="radio" name="1" id="numbers" checked/></p>
+        <p><input type="radio" name="1" id="numbers" checked/></p>
+        <p><input type="radio" name="1" id="numbers" checked/></p>
+        <p>12.What is the size of the String "ADAP"?</p>
+        <p><input type="radio" name="1" id="numbers" checked/></p>
+        <p><input type="radio" name="1" id="numbers" checked/></p>
+        <p><input type="radio" name="1" id="numbers" checked/></p>
+        <p><input type="radio" name="1" id="numbers" checked/></p>
+        <div class="text-center">
+            <button type="submit">Submit</button>
+        </div>
+
+    </body>
+</html>
