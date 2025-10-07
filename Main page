@@ -1,0 +1,25 @@
+<html>
+    <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>ADAP Choice</title>
+        <link rel="stylesheet" href="css.css" />
+        <style>
+            h1 {text-align: center;}
+            p {text-align: center;}
+            div {text-align: center;}
+            button{text-align: center;}
+        </style>
+    </head>
+    <body>
+        <h1>Hello! Welcome to ADAP!!</h1>
+        <p>Please Choose what you want to do.</p>
+        <div class="text-center">
+            <button type="submit">Generate a Password</button>
+        </div>
+        <br>
+        <div class="text-center">
+            <button type="submit">Do a Class 10 ICSE Quiz</button>
+          </div>
+
+    </body>
+</html>
