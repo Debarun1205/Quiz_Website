@@ -1,0 +1,60 @@
+<html>
+    <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Quiz Selector</title>
+        <link rel="stylesheet" href="css.css" />
+        <style>
+            h1 {text-align: center;}
+            p {text-align: center;}
+            div {text-align: center;}
+            button{text-align: center;}
+            img 
+            {
+                display: block;
+                margin-left: auto;
+                margin-right: auto;
+            }
+        </style>
+    </head>
+    <body>
+        <h1>Class 10 ICSE Quiz</h1>
+        <img src="" alt="ADAP Logo" style="width:50%;">
+        <p>Each Subject Contains 12 Questions</p>
+        <p>Please choose the subject you want to give a quiz on</p>
+        <div class="text-center">
+            <button type="submit">Mathematics</button>
+        </div>
+        <br>
+        <div class="text-center">
+            <button type="submit">Physics</button>
+        </div>
+        <br>
+        <div class="text-center">
+            <button type="submit">Chemistry</button>
+        </div>
+        <br>
+        <div class="text-center">
+            <button type="submit">Biology</button>
+        </div>
+        <br>
+        <div class="text-center">
+            <button type="submit">Computer</button>
+        </div>
+        <p>Or you can also generate a quiz containing all Subjects!!</p>
+        <div class="text-center">
+            <button type="submit">Generate</button>
+        </div>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <h1>Credits:</h1>
+        <p>Asmit Sarkar</p>
+        <p>Debarun Banerjee</p>
+        <p>Arkadeep Ghosh</p>
+        <p>Pushkar Biswas</p>
+    </body>
+<html>
