@@ -1,0 +1,76 @@
+<html>
+    <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Physics Quiz</title>
+        <link rel="stylesheet" href="css.css" />
+    </head>
+    <body>
+        <h1>Physics Quiz</h1>
+        <p>Please enter your name</p>
+        <input type="username">
+        <p>1:The Point at which entire weight of body concentrated.</p>
+        <p>a)25<input type="radio" name="1" id="numbers" checked/></p>
+        <p><input type="radio" name="1" id="numbers" checked/></p>
+        <p><input type="radio" name="1" id="numbers" checked/></p>
+        <p><input type="radio" name="1" id="numbers" checked/></p>
+        <p>2.Anticlockwise moment taken as</p>
+        <p><input type="radio" name="1" id="numbers" checked/></p>
+        <p><input type="radio" name="1" id="numbers" checked/></p>
+        <p><input type="radio" name="1" id="numbers" checked/></p>
+        <p><input type="radio" name="1" id="numbers" checked/></p>
+        <p>3.When gravitation P.E of body is zero when it is</p>
+        <p><input type="radio" name="1" id="numbers" checked/></p>
+        <p><input type="radio" name="1" id="numbers" checked/></p>
+        <p><input type="radio" name="1" id="numbers" checked/></p>
+        <p><input type="radio" name="1" id="numbers" checked/></p>
+        <p>4. If mass of body is doubled than kinetic energy</p>
+        <p><input type="radio" name="1" id="numbers" checked/></p>
+        <p><input type="radio" name="1" id="numbers" checked/></p>
+        <p><input type="radio" name="1" id="numbers" checked/></p>
+        <p><input type="radio" name="1" id="numbers" checked/></p>
+        <p>5.To measure potential difference volmeter is always connected in</p> 
+        <p><input type="radio" name="1" id="numbers" checked/></p>
+        <p><input type="radio" name="1" id="numbers" checked/></p>
+        <p><input type="radio" name="1" id="numbers" checked/></p>
+        <p><input type="radio" name="1" id="numbers" checked/></p> 
+        <p>6.The  MCB is connected  in</p>
+        <p><input type="radio" name="1" id="numbers" checked/></p>
+        <p><input type="radio" name="1" id="numbers" checked/></p>
+        <p><input type="radio" name="1" id="numbers" checked/></p>
+        <p><input type="radio" name="1" id="numbers" checked/></p>
+        <p>7.The magnetic field of electromagnet can be increase  by</p>
+        <p><input type="radio" name="1" id="numbers" checked/></p>
+        <p><input type="radio" name="1" id="numbers" checked/></p>
+        <p><input type="radio" name="1" id="numbers" checked/></p>
+        <p><input type="radio" name="1" id="numbers" checked/></p>
+        <p>8.Snow on mountain does not melt all at once because</p>
+        <p><input type="radio" name="1" id="numbers" checked/></p>
+        <p><input type="radio" name="1" id="numbers" checked/></p>
+        <p><input type="radio" name="1" id="numbers" checked/></p>
+        <p><input type="radio" name="1" id="numbers" checked/></p>
+        <p>9.Which is incorrect about alpha particles</p>
+        <p><input type="radio" name="1" id="numbers" checked/></p>
+        <p><input type="radio" name="1" id="numbers" checked/></p>
+        <p><input type="radio" name="1" id="numbers" checked/></p>
+        <p><input type="radio" name="1" id="numbers" checked/></p>
+        <p>10.When a ray deviates toward the centre, the power is</p>
+        <p><input type="radio" name="1" id="numbers" checked/></p>
+        <p><input type="radio" name="1" id="numbers" checked/></p>
+        <p><input type="radio" name="1" id="numbers" checked/></p>
+        <p><input type="radio" name="1" id="numbers" checked/></p>
+        <p>11.Which ray is less deviated by prism</p>
+        <p><input type="radio" name="1" id="numbers" checked/></p>
+        <p><input type="radio" name="1" id="numbers" checked/></p>
+        <p><input type="radio" name="1" id="numbers" checked/></p>
+        <p><input type="radio" name="1" id="numbers" checked/></p>
+        <p>12.The mechanical advantage of an ideal single fixed Pulley is</p>
+        <p><input type="radio" name="1" id="numbers" checked/></p>
+        <p><input type="radio" name="1" id="numbers" checked/></p>
+        <p><input type="radio" name="1" id="numbers" checked/></p>
+        <p><input type="radio" name="1" id="numbers" checked/></p>
+        <div class="text-center">
+            <button type="submit">Submit</button>
+        </div>
+
+    </body>
+</html>
