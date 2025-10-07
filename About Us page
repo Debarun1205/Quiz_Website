@@ -1,0 +1,117 @@
+<html>
+    <head>
+        <title>About us</title>
+        <style>
+            h1 {text-align: center;}
+            p {text-align: center;}
+            body   {  
+               height: 125px;  
+               margin-top: 80px;  
+               padding: 30px;  
+               background-size: cover;  
+               font-family: sans-serif;  
+            }  
+            header {  
+               background-color: blue;  
+               position: fixed;  
+               left: 0;  
+               right: 0;  
+               top: 5px;  
+               height: 30px;  
+               display: flex;  
+               align-items: center;  
+               box-shadow: 0 0 25px 0 black;  
+            }  
+            header * {  
+               display: inline;  
+            }  
+            header li {  
+               margin: 20px;  
+            }  
+            header li a {  
+               color: white;  
+               text-decoration: none;  
+            }  
+            body {
+               height: 100%;
+               padding: 0;
+               margin: 0;
+            }
+
+            div {
+               width: 50%;
+               height: 50%;
+               float: left;
+            }
+
+           #div1 {
+               background: white;
+               border:1% solid skyblue;
+            }
+
+           #div2 {
+               background: white;
+               border:1% solid skyblue;
+            }
+
+           #div3 {
+               background: white;
+               border:1% solid skyblue;
+            }
+
+           #div4 {
+               background: white;
+               border:1% solid skyblue;
+            }
+        </style>
+    </head>
+    <body>
+        <header>  
+            <nav>  
+            <ul>  
+            <li>  
+            <a href="#home"> Home </a>  
+            </li>  
+            <li>  
+            <a href="#aboutus"> About Us</a>  
+            </li>  
+            <li>  
+            <a href="#quiz"> Quiz </a>  
+            </li>  
+            </ul>  
+            </nav>  
+            </header>  
+        <div id="div1">
+            <h1 style="color:blue">Asmit Sarkar</h1>
+            <img src="">
+            <p style="color:black">Class: 10 Science A</p>
+            <p style="color:black">Role:Database Manager</p>
+            <p style="color:black">School:Douglas Memorial Higher Secondary School</p>
+            <p style="color:black">Email:</p>
+        </div>
+        <div id="div2">
+            <h1 style="color:blue">Debarun Banerjee</h1>
+            <img src="">
+            <p style="color:black">Class: 10 Science A</p>
+            <p style="color:black">Role:CSS Styler</p>
+            <p style="color:black">School:Douglas Memorial Higher Secondary School</p>
+            <p style="color:black">Email: debarunbanerjee1205@gmail.com </p>
+        </div>
+        <div id="div3">
+            <h1 style="color:blue">Arkadeep Ghosh</h1>
+            <img src="">
+            <p style="color:black">Class: 10 Science C</p>
+            <p style="color:black">Role:Quiz Master</p>
+            <p style="color:black">School:Douglas Memorial Higher Secondary School</p>
+            <p style="color:black">Email: Arkadeepghosh399@gmail.com</p>
+        </div>
+        <div id="div4">
+            <h1 style="color:blue">Pushkar Biswas</h1>
+            <img src="">
+            <p style="color:black">Class: 10 Science C</p>
+            <p style="color:black">Role:Graphic Designer</p>
+            <p style="color:black">School:Douglas Memorial Higher Secondary School</p>
+            <p style="color:black">Email:pushkarbiswas@gmail.com</p>
+        </div>
+    </body>
+</html>
