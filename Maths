@@ -1,0 +1,76 @@
+<html>
+    <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Maths Quiz</title>
+        <link rel="stylesheet" href="css.css" />
+    </head>
+    <body>
+        <h1>Maths Quiz</h1>
+        <p>Please enter your name</p>
+        <input type="username">
+        <p>1:The mean proportion between 9 and 16 is</p>
+        <p>a)25<input type="radio" name="1" id="numbers" checked/></p>
+        <p>b)144<input type="radio" name="1" id="numbers" checked/></p>
+        <p>c)7<input type="radio" name="1" id="numbers" checked/></p>
+        <p>d)12<input type="radio" name="1" id="numbers" checked/></p>
+        <p>2.The roots of the quadratic equation x2+2x+1 = 0 are</p>
+        <p>(a) Real and distinct<input type="radio" name="2" id="numbers" checked/></p>
+        <p>(b) Real and equal<input type="radio" name="2" id="numbers" checked/></p>
+        <p>(c) Distinct<input type="radio" name="2" id="numbers" checked/></p>
+        <p>(d) Not real/ imaginary<input type="radio" name="2" id="numbers" checked/></p>
+        <p>3.Which of the following statement is not true?</p>
+        <p>(a) All identity matrices are square matrix<input type="radio" name="3" id="numbers" checked/></p>
+        <p>(b) All null matrices are square matrix<input type="radio" name="3" id="numbers" checked/></p>
+        <p>(c) For a square matrix number of rows is equal to the number of columns<input type="radio" name="3" id="numbers" checked/></p>
+        <p>(d) A square matrix all of whose elements except those in the leading diagonal are zero is the diagonal matrix<input type="radio" name="3" id="numbers" checked/></p>
+        <p>4.When the roots of a quadratic equation are real and equal then the discriminant of the qudratic equation is:</p>
+        <p>a)Infinite<input type="radio" name="4" id="numbers" checked/></p>
+        <p>b)Positive<input type="radio" name="4" id="numbers" checked/></p>
+        <p>c)Zero<input type="radio" name="4" id="numbers" checked/></p>
+        <p>d)Negative<input type="radio" name="4" id="numbers" checked/></p>
+        <p>5.The slope of a line parallel to y-axis is</p> 
+        <p>a)0<input type="radio" name="5" id="numbers" checked/></p>
+        <p>b)1<input type="radio" name="5" id="numbers" checked/></p>
+        <p>c)-1<input type="radio" name="5" id="numbers" checked/></p>
+        <p>d)Not Defined<input type="radio" name="5" id="numbers" checked/></p> 
+        <p>6.The first three terms of an A.P. respectively are 3y-1, 3y+5, and 5y+1. Then, y equals</p>
+        <p>a)-3<input type="radio" name="6" id="numbers" checked/></p>
+        <p>b)-5<input type="radio" name="6" id="numbers" checked/></p>
+        <p>c)5<input type="radio" name="6" id="numbers" checked/></p>
+        <p>d)2<input type="radio" name="6" id="numbers" checked/></p>
+        <p>7.1+cot2 θ is equal to</p>
+        <p>a)sin2 θ<input type="radio" name="7" id="numbers" checked/></p>
+        <p>b)tan2 θ<input type="radio" name="7" id="numbers" checked/></p>
+        <p>c)sec2 θ<input type="radio" name="7" id="numbers" checked/></p>
+        <p>d)cosec2 θ<input type="radio" name="7" id="numbers" checked/></p>
+        <p>8.Which of the following cannot be the probability of an event?</p>
+        <p>a)0.7<input type="radio" name="8" id="numbers" checked/></p>
+        <p>b)2/3<input type="radio" name="8" id="numbers" checked/></p>
+        <p>c)-1.5<input type="radio" name="8" id="numbers" checked/></p>
+        <p>d)15%<input type="radio" name="8" id="numbers" checked/></p>
+        <p>9.The probability that the minute hand lies from 5 to 15 min in th wall clock, is</p>
+        <p>a)1/6<input type="radio" name="9" id="numbers" checked/></p>
+        <p>b)5/6<input type="radio" name="9" id="numbers" checked/></p>
+        <p>c)1/5<input type="radio" name="9" id="numbers" checked/></p>
+        <p>d)1/10<input type="radio" name="9" id="numbers" checked/></p>
+        <p>10.If the nth term of an Arithmetic Progression(A.P.) is(n+3), then the first three terms of the A.P. are:</p>
+        <p>a)1,2,3<input type="radio" name="10" id="numbers" checked/></p>
+        <p>b)2,4,6<input type="radio" name="10" id="numbers" checked/></p>
+        <p>c)4,5,6<input type="radio" name="10" id="numbers" checked/></p>
+        <p>d)7,8,9<input type="radio" name="10" id="numbers" checked/></p>
+        <p>11.The median of a grouped frequency distribution is found graphically by drawing:</p>
+        <p>a)linear graph<input type="radio" name="1" id="numbers" checked/></p>
+        <p>b)histogram<input type="radio" name="11" id="numbers" checked/></p>
+        <p>c)frequency polygon<input type="radio" name="11" id="numbers" checked/></p>
+        <p>d)cumulative frequency curve<input type="radio" name="11" id="numbers" checked/></p>
+        <p>12.The total events to throw three dice simultaneously is</p>
+        <p>a)6<input type="radio" name="12" id="numbers" checked/></p>
+        <p>b)36<input type="radio" name="12" id="numbers" checked/></p>
+        <p>c)18<input type="radio" name="12" id="numbers" checked/></p>
+        <p>d)216<input type="radio" name="12" id="numbers" checked/></p>
+        <div class="text-center">
+            <button type="submit">Submit</button>
+        </div>
+
+    </body>
+</html>
